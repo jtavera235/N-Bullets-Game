@@ -1,2 +1,2 @@
 # N-Bullets-Game
-Project which represents the N Bullets game.
+Project which represents the popular 10 Bullets game.
